@@ -1,0 +1,15 @@
+This is a user guide.
+******************************************************************************
+Function list is as follow:
+DPC
+DPC_P
+DPC_U
+ENaNE
+Find_index
+KNNC
+NaN_Search
+SelfTraining_idx
+STDPNF
+******************************************************************************
+The main function is  STDPNF.
+******************************************************************************
